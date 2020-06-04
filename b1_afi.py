@@ -1,4 +1,4 @@
-##AFI Method
+##AFI (Actual Flip-Angle Imaging) Method
 
 import numpy as np
 import matplotlib.pyplot as plt
